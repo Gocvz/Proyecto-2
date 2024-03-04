@@ -9,19 +9,3 @@ a:hover {
     color: white !important;
     font-weight: bold;
 }
-
-.navbar-nintendo{
-    background-color: #e00101;
-}
-
-.navbar-xbox{
-    background-color: #107C10;
-}
-
-.navbar-playstation{
-    background-color: #0070d1;
-}
-
-.navbar-pc{
-    background-color: #f3eb0c;
-}
