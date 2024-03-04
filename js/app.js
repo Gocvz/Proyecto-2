@@ -16,5 +16,3 @@ function scrollFunction(){
         navbar.classList.add('bg-transparent'); //quita la clase bg transparente del nodo navbar
 
     }
-
-}
